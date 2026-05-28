@@ -58,7 +58,7 @@ python3 optimize.py path/to/your/sites.csv
 
 **Example:**
 ```bash
-python3 optimize.py "ATC Site Visit - 6_8 - 6_12.csv"
+python3 optimize.py "Site Visit.csv"
 ```
 
 The tool prints progress as it runs and writes two files next to your input CSV:
