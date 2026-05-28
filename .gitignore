@@ -1,0 +1,15 @@
+# OSRM cache — regenerated automatically on first run
+.osrm_cache.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Output files — generated from input CSVs
+*_schedule.csv
+*_outliers.csv
